@@ -24,9 +24,9 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-- 👨🏻‍💻🖥️I’m currently pursuing my **Bachelor of Engineering in IT at PVG's COET, Pune**
+- 👨🏻‍💻 I’m currently pursuing my **Bachelor of Engineering in IT at PVG's COET, Pune**
 
-- 🌱 I’m currently learning **REACT.js and Express.js**
+- 🖥️ I’m currently learning **REACT.js and Express.js**
 
 - 🚀 I'm on my journey to be a **Full Stack Web Developer.**
 

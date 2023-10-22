@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akash Dangare</h1>
-<!--<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
+<h1 align="center" color="white">Hi 👋, I'm Akash Dangare</h1>
 
 <!--this is chotta bacccha in middle -->
 <div id="header" align="center">
@@ -17,7 +16,7 @@
   </a>
 </div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=akashdangare911&label=Profile%20views&color=0e75b6&style=flat" alt="akashdangare911" /> </p>
-<h3 align="center">A passionate programmer from Pune, Maharashtra 🚩</h3>
+<h3 align="center" color="white" >A passionate programmer from Pune, Maharashtra 🚩</h3>
 <br/>
 
 <!-- this is pic in middle -->
